@@ -1,0 +1,18 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Vectorstore index cache (optional, uncomment to commit pre-built index)
+# vectorstore/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
